@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1677-matrix-diagonal-sum](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
@@ -43,4 +44,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
