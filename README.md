@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2844-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
