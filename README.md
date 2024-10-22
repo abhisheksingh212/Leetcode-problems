@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
 |  |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
