@@ -3,7 +3,7 @@ class Solution {
     { int startindex=0;
        if(haystack.contains(needle)){
       startindex=haystack.indexOf(needle);
-       String s=haystack.substring(startindex);
+       
        return startindex;
     }
        else 
