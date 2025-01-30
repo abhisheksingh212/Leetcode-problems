@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
