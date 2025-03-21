@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -79,8 +80,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
