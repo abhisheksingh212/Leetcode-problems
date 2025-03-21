@@ -4,14 +4,14 @@ class Solution {
       {
         return true;
       }
-      s=s.toLowerCase();
-      String s1=s.replaceAll("[\\p{Punct}\\s]","");
+      
+     s=s.toLowerCase().replaceAll("[\\p{Punct}\\s]","");
       String s2="";
-        for(int i=s1.length()-1;i>=0;i--)
+        for(int i=s.length()-1;i>=0;i--)
         {
-          s2 += s1.charAt(i);
+          s2 += s.charAt(i);
         }
-      if(s1.equals(s2)){
+      if(s.equals(s2)){
       return true;
       }
       return false;
