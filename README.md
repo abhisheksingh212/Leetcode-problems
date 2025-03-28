@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0898-transpose-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1677-matrix-diagonal-sum](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
