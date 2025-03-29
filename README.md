@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0898-transpose-matrix](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -58,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
@@ -78,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -100,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
