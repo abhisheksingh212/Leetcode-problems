@@ -5,25 +5,17 @@ class Solution {
         int[] pos=new int[n/2];
         int[] neg=new int[n/2];
         int arr[]=new int[n];
-        int pindex=0,nindex=0;
-        for(int i=0;i<n;i++)
-        {
-            if(nums[i]>0)
-            {
-                pos[pindex++]=nums[i];
+        int pindex=0,nindex=1;
+
+   for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > 0) {
+                arr[pindex] = nums[i];
+                pindex += 2;
+            } else {
+                arr[nindex] = nums[i];
+                nindex += 2;
             }
-            else{
-                neg[nindex++]=nums[i];
-            }
-        }
-  pindex=0;nindex=0;
-  for(int i=0;i<n;i+=2)
-  {
-    arr[i]=pos[pindex++];
-    arr[i+1]=neg[nindex++];
-  }
-   
-        
+        }    
 return arr;
     }
 }
