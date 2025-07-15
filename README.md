@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1258-article-views-i](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1827-invalid-tweets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
