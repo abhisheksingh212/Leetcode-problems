@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
