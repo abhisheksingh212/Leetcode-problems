@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/2573-remove-nodes-from-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
