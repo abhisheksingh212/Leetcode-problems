@@ -24,8 +24,11 @@ class Solution {
             i++;
             curr=next;
         }
+odd.next=dummy2.next;
+even.next=null;
 
-        ListNode result=null;
+return dummy1.next;
+       /* ListNode result=null;
         ListNode lastConnected=null;
 
         if(dummy1.next!=null)
@@ -50,5 +53,6 @@ class Solution {
             lastConnected.next=null;
         }
         return result;
+        */
     }
 }
