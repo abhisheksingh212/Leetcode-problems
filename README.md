@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0268-missing-number) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
