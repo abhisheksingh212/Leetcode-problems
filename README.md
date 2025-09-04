@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0125-valid-palindrome) |
