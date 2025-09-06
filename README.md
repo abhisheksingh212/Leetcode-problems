@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0338-counting-bits) |
@@ -226,5 +228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
