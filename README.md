@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0216-combination-sum-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
 | [0415-add-strings](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0415-add-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## String Matching
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -249,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0216-combination-sum-iii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/HOOPSTER21/Leetcode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
